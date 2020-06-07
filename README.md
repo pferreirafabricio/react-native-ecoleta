@@ -1,4 +1,3 @@
-# Ecoleta
 <img src="./screenshots/background.png" alt="Background image of the project"/>
 
 ## Overview 
@@ -12,7 +11,7 @@
 This project was developed to help people find places for waste collection points.<br/>
 In the __[web application](https://github.com/pferreirafabricio/react-ecoleta)__, the Establishment can register your collect point.<br/>
 In the __mobile application__, the user can view all points, filtering by UF, city and items, as well as view a specific point and send an email and or message to the establishment.
-> Checkout the API of the project here: __[Ecoleta API](https://github.com/pferreirafabricio/node-ecoletaApi)__
+> Check here the project API: __[Ecoleta API](https://github.com/pferreirafabricio/node-ecoletaApi)__
 ## Technologies 
 This project was built with:
 - [React Native](https://facebook.github.io/react-native/)
